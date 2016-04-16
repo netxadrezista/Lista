@@ -5,39 +5,3 @@ http://noscdn1.connectedviews.com:1935/live/smil:rtp1.smil/playlist.m3u8
 
 #EXTINF:-1,Sport TV 1
 http://iptv.ndasat.com:88/live/karima/karima/64.ts
-#EXTINF:-1,Sport TV 2
-http://iptv.ndasat.com:88/live/karima/karima/65.ts
-#EXTINF:-1,Sport TV 3
-http://iptv.ndasat.com:88/live/karima/karima/66.ts
-#EXTINF:-1,Sport TV 4
-http://iptv.ndasat.com:88/live/karima/karima/67.ts
-#EXTINF:-1,PT: TVCine 1 HD
-http://iptvbox.noip.us:9998/ismail/ismail/1357.ch
-#EXTINF:-1,PT: TVCine 2 HD
-http://iptvbox.noip.us:9998/ismail/ismail/1358.ch
-#EXTINF:-1,PT: TVCine 3 HD
-http://iptvbox.noip.us:9998/ismail/ismail/1359.ch
-#EXTINF:-1,PT: TVCine 4 HD
-http://iptvbox.noip.us:9998/ismail/ismail/1360.ch
-#EXTINF:-1,PT: Sporting TV
-http://iptvbox.noip.us:9998/ismail/ismail/1028.ch
-#EXTINF:-1,PT: Sport.TV1 HD
-http://iptvbox.noip.us:9998/ismail/ismail/820.ch
-#EXTINF:-1,PT: Sport.TV1
-http://iptvbox.noip.us:9998/ismail/ismail/819.ch
-#EXTINF:-1,PT: Sport.TV2
-http://iptvbox.noip.us:9998/ismail/ismail/821.ch
-#EXTINF:-1,PT: Sport.TV3
-http://iptvbox.noip.us:9998/ismail/ismail/822.ch
-#EXTINF:-1,PT: Sport.TV4
-http://iptvbox.noip.us:9998/ismail/ismail/823.ch
-#EXTINF:-1,PT: Sport.TV5
-http://iptvbox.noip.us:9998/ismail/ismail/824.ch
-#EXTINF:-1,PT: CHELSEA TV
-http://iptvbox.noip.us:9998/ismail/ismail/1024.ch
-#EXTINF:-1,PT: BTV2
-http://iptvbox.noip.us:9998/ismail/ismail/1027.ch
-#EXTINF:-1,PT: BTV1 HD
-http://iptvbox.noip.us:9998/ismail/ismail/1026.ch
-#EXTINF:-1,PT: BTV1
-http://iptvbox.noip.us:9998/ismail/ismail/1025.ch
