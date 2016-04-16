@@ -1,5 +1,4 @@
-#EXTINF:-1,***** PORTUGUESE *****
-http://
+#EXTM3U
 
 #EXTINF:-1,RTP 1
 http://noscdn1.connectedviews.com:1935/live/smil:rtp1.smil/playlist.m3u8
