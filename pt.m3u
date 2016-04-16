@@ -2,6 +2,7 @@
 
 #EXTINF:-1,Sport TV 1
 http://iptv.ndasat.com:88/live/karima/karima/64.ts
+
 #EXTINF:-1 tvg-id="rtp1.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/quvwwq1438183825.png/medium",RTP 1
 http://noscdn1.connectedviews.com:1935/live/smil:rtp1.smil/playlist.m3u8
  
