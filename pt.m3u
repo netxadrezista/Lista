@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1,Sport TV 1
+#EXTINF:-1 tvg-id="Sport TV 1.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/urqtvs1436898824.png/medium",Sport TV 1
 http://iptv.ndasat.com:88/live/karima/karima/64.ts
 
 #EXTINF:-1 tvg-id="rtp1.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/quvwwq1438183825.png/medium",RTP 1
