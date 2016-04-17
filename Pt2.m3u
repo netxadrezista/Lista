@@ -24,16 +24,16 @@ http://b2everyrai-lh.akamaihd.net/i/rai4_1@181951/index_1200_av-p.m3u8
 #EXTINF:-1 tvg-id="RAI 5" tvg-logo="http://www.thelogodb.com/images/media/logo/qrspts1434463087.png/medium",RAI 5
 http://stream12.rai.it/live/rai5.smil/master.m3u8|X-Forwarded-For=2.112.0.1
 
-#EXTINF:-1 tvg-id="" tvg-logo="",RAI MOVIES
+#EXTINF:-1 tvg-id="RAI MOVIES" tvg-logo="http://www.thelogodb.com/images/media/logo/rwrtsp1434463709.png/medium",RAI MOVIES
 http://stream10.rai.it/italy/raimovie.smil/chunklist_b1200000.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="",RAI NEWS 24
+#EXTINF:-1 tvg-id="RAI NEWS 24" tvg-logo="http://www.thelogodb.com/images/media/logo/yruqxs1434616108.png/medium",RAI NEWS 24
 http://b2everyrai-lh.akamaihd.net/i/rainews_1@179616/index_1200_av-p.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="",SPORT 1
+#EXTINF:-1 tvg-id="SPORT 1" tvg-logo="http://www.thelogodb.com/images/media/logo/rsuyrx1455541493.png/medium",SPORT 1
 http://5.135.139.145:80/Sport_1_Hungary/mono.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="",SPORT 2
+#EXTINF:-1 tvg-id="SPORT 2" tvg-logo="http://www.thelogodb.com/images/media/logo/yxwwww1460904428.png/medium",SPORT 2
 http://5.135.139.145:80/Sport2_CZE/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="",SPORTITALIA
