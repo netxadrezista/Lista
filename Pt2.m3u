@@ -39,7 +39,7 @@ http://5.135.139.145:80/Sport2_CZE/mono.m3u8
 #EXTINF:-1 tvg-id="SPORTITALIA" tvg-logo="http://www.thelogodb.com/images/media/logo/xqsyqy1458563179.png/medium",SPORTITALIA
 http://spi.hystream.com:1935/spilive/spistream/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="TV LISBOA" tvg-logo="http://www.tvtuga.com/wp-content/uploads/2015/08/tvl.jpg",TV LISBOA
+#EXTINF:-1 tvg-id="TV LISBOA" tvg-logo="http://www.tvl-vanlanduyt.be/Data/Sites/1/GalleryImages/FullSizeImages/LogoKl.jpg",TV LISBOA
 http://213.13.26.11:1935/live/tvldireto/livestrem.m3u8
 
 #EXTINF:-1 tvg-id="TV GLOBO" tvg-logo="http://www.thelogodb.com/images/media/logo/yspusx1435103750.png/medium",TV GLOBO
@@ -61,7 +61,7 @@ http://art.nextv.ca:80/nextv/globo/index.m3u8
 #EXTINF:-1 tvg-id="TV SERTANEJA" tvg-logo="http://www.tvsertaneja.tv.br/images/logo1.png",TV SERTANEJA
 http://69.46.0.170:1935/tvsertaneja/tvsertaneja.stream/live.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="",VEVO 1
+#EXTINF:-1 tvg-id="VEVO 1" tvg-logo="http://images.vcpost.com/data/thumbs/full/34334/590/0/0/0/vevo-logo.png",VEVO 1
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="",VEVO 2
