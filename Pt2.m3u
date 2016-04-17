@@ -1,15 +1,15 @@
 #EXTM3U
  
-#EXTINF:-1 tvg-id="ANTENA 3.pt"http://www.thelogodb.com/images/media/logo/vqquup1435142966.png/medium",ANTENA 3
+#EXTINF:-1 tvg-id="ANTENA 3.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/vqquup1435142966.png/medium",ANTENA 3
 http://api.iptv.ink/pl.m3u8?ch=62326989
 
-#EXTINF:0 tvg-id="ANTENA 3.pt"http://www.thelogodb.com/images/media/logo/xprrtv1433779385.png/medium",Animal Planet
+#EXTINF:0 tvg-id="Animal Planet.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/xprrtv1433779385.png/medium",Animal Planet
 http://80.80.160.168/live/1/live.m3u8
 
-#EXTINF:-1,REAL MADRID TV
+#EXTINF:-1 tvg-id="REAL MADRID TV.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/xqwpww1436887616.png/medium",REAL MADRID TV
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on
 
-#EXTINF:-1,RAI 1
+#EXTINF:-1 tvg-id="RAI 1.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/qrqrps1433426634.png/medium",RAI 1
 http://b2everyrai-lh.akamaihd.net/i/rai1_1@398068/index_1200_av-p.m3u8?sd=10&rebase=on
 
 #EXTINF:-1,RAI 2
