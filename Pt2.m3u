@@ -39,7 +39,7 @@ http://5.135.139.145:80/Sport2_CZE/mono.m3u8
 #EXTINF:-1 tvg-id="SPORTITALIA" tvg-logo="http://www.thelogodb.com/images/media/logo/xqsyqy1458563179.png/medium",SPORTITALIA
 http://spi.hystream.com:1935/spilive/spistream/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="TV LISBOA" tvg-logo="http://www.tvl-vanlanduyt.be/Data/Sites/1/GalleryImages/FullSizeImages/LogoKl.jpg",TV LISBOA
+#EXTINF:-1 tvg-id="TV LISBOA" tvg-logo="http://2.gravatar.com/avatar/855b7c8647ca4679705b9164e950d10e?s=50&d=blank&r=g",TV LISBOA
 http://213.13.26.11:1935/live/tvldireto/livestrem.m3u8
 
 #EXTINF:-1 tvg-id="TV GLOBO" tvg-logo="http://www.thelogodb.com/images/media/logo/yspusx1435103750.png/medium",TV GLOBO
