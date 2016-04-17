@@ -36,10 +36,10 @@ http://5.135.139.145:80/Sport_1_Hungary/mono.m3u8
 #EXTINF:-1 tvg-id="SPORT 2" tvg-logo="http://www.thelogodb.com/images/media/logo/utysqs1460905328.png/medium",SPORT 2
 http://5.135.139.145:80/Sport2_CZE/mono.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="",SPORTITALIA
+#EXTINF:-1 tvg-id="SPORTITALIA" tvg-logo="http://www.thelogodb.com/images/media/logo/xqsyqy1458563179.png/medium",SPORTITALIA
 http://spi.hystream.com:1935/spilive/spistream/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="",TV LISBOA
+#EXTINF:-1 tvg-id="TV LISBOA" tvg-logo="http://www.tvtuga.com/wp-content/uploads/2015/08/tvl.jpg",TV LISBOA
 http://213.13.26.11:1935/live/tvldireto/livestrem.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="",TV GLOBO
