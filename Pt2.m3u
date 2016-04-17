@@ -1,7 +1,78 @@
 #EXTM3U
  
-#EXTINF:-1 tvg-id="rtp1" tvg-logo="http://www.thelogodb.com/images/media/logo/quvwwq1438183825.png/medium",rtp
-http://noscdn1.connectedviews.com:1935/live/smil:rtp1.smil/playlist.m3u8
- 
-#EXTINF:-1 tvg-id="rtp2" tvg-logo="http://www.thelogodb.com/images/media/logo/qpxxwq1438185552.png/medium",RTP 2
-http://noscdn1.connectedviews.com:1935/live/smil:rtp2.smil/playlist.m3u8.
+#EXTINF:-1,ANTENA 3
+http://api.iptv.ink/pl.m3u8?ch=62326989
+
+#EXTINF:0, Animal Planet
+http://80.80.160.168/live/1/live.m3u8
+
+#EXTINF:-1,REAL MADRID TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1,RAI 1
+http://b2everyrai-lh.akamaihd.net/i/rai1_1@398068/index_1200_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1,RAI 2
+http://b2everyrai-lh.akamaihd.net/i/rai2_1@66477/index_1200_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1,RAI 3
+http://b2everyrai-lh.akamaihd.net/i/rai3_1@91501/index_1200_av-p.m3u8
+
+#EXTINF:-1,RAI 4
+http://b2everyrai-lh.akamaihd.net/i/rai4_1@181951/index_1200_av-p.m3u8
+
+#EXTINF:-1,RAI 5
+http://stream12.rai.it/live/rai5.smil/master.m3u8|X-Forwarded-For=2.112.0.1
+
+#EXTINF:-1 tvg-logo="RaiMovie.png" group-title=“VARIOS INTERNACIONAIS”,[COLOR deepskyblue][I][B]RAI MOVIES (ITA)[/B][/I][/COLOR]
+http://stream10.rai.it/italy/raimovie.smil/chunklist_b1200000.m3u8
+
+#EXTINF:-1,RAI NEWS 24
+http://b2everyrai-lh.akamaihd.net/i/rainews_1@179616/index_1200_av-p.m3u8
+
+#EXTINF:-1,SPORT 1
+http://5.135.139.145:80/Sport_1_Hungary/mono.m3u8
+
+#EXTINF:-1,SPORT 2
+http://5.135.139.145:80/Sport2_CZE/mono.m3u8
+
+#EXTINF:-1,SPORTITALIA
+http://spi.hystream.com:1935/spilive/spistream/chunklist.m3u8
+
+#EXTINF:-1,TV LISBOA
+http://213.13.26.11:1935/live/tvldireto/livestrem.m3u8
+
+#EXTINF:-1,TV GLOBO
+http://50.7.66.66:8081/loadbalance/tvmsnmaxxprime/playlist.m3u8
+
+#EXTINF:-1,TV GLOBO ALTERNATIVA
+
+#EXTINF:-1,TV RECORD
+http://tvvitoria.viacast.tv/livepl/tvvitoria_3_original.m3u8
+
+#EXTINF:-1,TV BRASIL
+http://ebcremuxlive-live.hls.adaptive.level3.net:80/manifests/ebcremuxlive-ebctvbrasil/live.m3u8
+
+
+#EXTINF:-1,EURONEWS
+http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/iphone_pt.m3u8
+
+
+#EXTINF:-1,TV RECORD NEWS
+http://art.nextv.ca:80/nextv/globo/index.m3u8
+
+#EXTINF:-1,TV SERTANEJA
+http://69.46.0.170:1935/tvsertaneja/tvsertaneja.stream/live.m3u8
+
+#EXTINF:-1,VEVO 1
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
+
+#EXTINF:-1,VEVO 2
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
+
+#EXTINF:-1,VEVO 3
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
+
+#EXTINF:-1,VH1
+http://80.80.58.167:8070/hls/vh1.m3u8
+
