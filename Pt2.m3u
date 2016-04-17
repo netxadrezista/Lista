@@ -72,3 +72,5 @@ http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
 
 #EXTINF:-1 tvg-id="VH1.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/wpqwrq1433965505.png/medium",VH1
 http://80.80.58.167:8070/hls/vh1.m3u8
+
+#EXTINF:-1
