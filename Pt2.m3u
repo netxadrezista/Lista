@@ -18,56 +18,56 @@ http://b2everyrai-lh.akamaihd.net/i/rai2_1@66477/index_1200_av-p.m3u8?sd=10&reba
 #EXTINF:-1 tvg-id="RAI 3" tvg-logo="http://www.thelogodb.com/images/media/logo/xxwxry1434463066.png/medium",RAI 3
 http://b2everyrai-lh.akamaihd.net/i/rai3_1@91501/index_1200_av-p.m3u8
 
-#EXTINF:-1,RAI 4
+#EXTINF:-1 tvg-id="RAI 4" tvg-logo="http://www.thelogodb.com/images/media/logo/vpsups1434463075.png/medium",RAI 4
 http://b2everyrai-lh.akamaihd.net/i/rai4_1@181951/index_1200_av-p.m3u8
 
-#EXTINF:-1,RAI 5
+#EXTINF:-1 tvg-id="RAI 5" tvg-logo="http://www.thelogodb.com/images/media/logo/qrspts1434463087.png/medium",RAI 5
 http://stream12.rai.it/live/rai5.smil/master.m3u8|X-Forwarded-For=2.112.0.1
 
-#EXTINF:-1,RAI MOVIES
+#EXTINF:-1 tvg-id="" tvg-logo="",RAI MOVIES
 http://stream10.rai.it/italy/raimovie.smil/chunklist_b1200000.m3u8
 
-#EXTINF:-1,RAI NEWS 24
+#EXTINF:-1 tvg-id="" tvg-logo="",RAI NEWS 24
 http://b2everyrai-lh.akamaihd.net/i/rainews_1@179616/index_1200_av-p.m3u8
 
-#EXTINF:-1,SPORT 1
+#EXTINF:-1 tvg-id="" tvg-logo="",SPORT 1
 http://5.135.139.145:80/Sport_1_Hungary/mono.m3u8
 
-#EXTINF:-1,SPORT 2
+#EXTINF:-1 tvg-id="" tvg-logo="",SPORT 2
 http://5.135.139.145:80/Sport2_CZE/mono.m3u8
 
-#EXTINF:-1,SPORTITALIA
+#EXTINF:-1 tvg-id="" tvg-logo="",SPORTITALIA
 http://spi.hystream.com:1935/spilive/spistream/chunklist.m3u8
 
-#EXTINF:-1,TV LISBOA
+#EXTINF:-1 tvg-id="" tvg-logo="",TV LISBOA
 http://213.13.26.11:1935/live/tvldireto/livestrem.m3u8
 
-#EXTINF:-1,TV GLOBO
+#EXTINF:-1 tvg-id="" tvg-logo="",TV GLOBO
 http://50.7.66.66:8081/loadbalance/tvmsnmaxxprime/playlist.m3u8
 
-#EXTINF:-1,TV RECORD
+#EXTINF:-1 tvg-id="" tvg-logo="",TV RECORD
 http://tvvitoria.viacast.tv/livepl/tvvitoria_3_original.m3u8
 
-#EXTINF:-1,TV BRASIL
+#EXTINF:-1 tvg-id="" tvg-logo="",TV BRASIL
 http://ebcremuxlive-live.hls.adaptive.level3.net:80/manifests/ebcremuxlive-ebctvbrasil/live.m3u8
 
 
-#EXTINF:-1,EURONEWS
+#EXTINF:-1 tvg-id="" tvg-logo="",EURONEWS
 http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/iphone_pt.m3u8
 
-#EXTINF:-1,TV RECORD NEWS
+#EXTINF:-1 tvg-id="" tvg-logo="",TV RECORD NEWS
 http://art.nextv.ca:80/nextv/globo/index.m3u8
 
-#EXTINF:-1,TV SERTANEJA
+#EXTINF:-1 tvg-id="" tvg-logo="",TV SERTANEJA
 http://69.46.0.170:1935/tvsertaneja/tvsertaneja.stream/live.m3u8
 
-#EXTINF:-1,VEVO 1
+#EXTINF:-1 tvg-id="" tvg-logo="",VEVO 1
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
 
-#EXTINF:-1,VEVO 2
+#EXTINF:-1 tvg-id="" tvg-logo="",VEVO 2
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
 
-#EXTINF:-1,VEVO 3
+#EXTINF:-1 tvg-id="" tvg-logo="",VEVO 3
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
 
 #EXTINF:-1 tvg-id="VH1.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/wpqwrq1433965505.png/medium",VH1
