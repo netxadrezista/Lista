@@ -1,5 +1,11 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="Benfica Tv1" tvg-logo="http://www.thelogodb.com/images/media/logo/twyypw1436898859.png/medium",Benfica Tv1
+http://iptv.alphacs.tv:8080/live/KZQZvlzIxK/H0TD9tLbOT/633.m3u8
+
+#EXTINF:-1 tvg-id="Sporttv 3" tvg-logo="http://www.thelogodb.com/images/media/logo/twyypw1436898859.png/medium",Sporttv 3
+http://iptv.alphacs.tv:8080/live/KZQZvlzIxK/H0TD9tLbOT/7254.m3u8
+
 #EXTINF:-1 tvg-id="Sporttv 2" tvg-logo="http://www.thelogodb.com/images/media/logo/uuvrpw1436898843.png/medium",Sporttv 2
 http://iptv.alphacs.tv:8080/live/KZQZvlzIxK/H0TD9tLbOT/7253.m3u8
  
