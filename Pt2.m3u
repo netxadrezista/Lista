@@ -1,16 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="A Bola TV" tvg-logo="http://www.thelogodb.com/images/media/logo/yuvqvt1437951057.png/medium",A Bola TV
-http://iptv.alphacs.tv:8080/live/KZQZvlzIxK/H0TD9tLbOT/631.m3u8
 
-#EXTINF:-1 tvg-id="Benfica Tv1" tvg-logo="http://www.thelogodb.com/images/media/logo/yutwvs1437950085.png/medium",Benfica Tv1
-http://iptv.alphacs.tv:8080/live/KZQZvlzIxK/H0TD9tLbOT/633.m3u8
-
-#EXTINF:-1 tvg-id="Sporttv 3" tvg-logo="http://www.thelogodb.com/images/media/logo/twyypw1436898859.png/medium",Sporttv 3
-http://iptv.alphacs.tv:8080/live/KZQZvlzIxK/H0TD9tLbOT/7254.m3u8
-
-#EXTINF:-1 tvg-id="Sporttv 2" tvg-logo="http://www.thelogodb.com/images/media/logo/uuvrpw1436898843.png/medium",Sporttv 2
-http://iptv.alphacs.tv:8080/live/KZQZvlzIxK/H0TD9tLbOT/7253.m3u8
  
 #EXTINF:-1 tvg-id="ANTENA 3.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/vqquup1435142966.png/medium",ANTENA 3
 http://api.iptv.ink/pl.m3u8?ch=62326989
