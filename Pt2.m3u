@@ -1,5 +1,30 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="TVE La 1" tvg-logo="http://www.thelogodb.com/images/media/logo/xruxyt1433882205.png/medium",TVE La 1
+http://iphonelive.rtve.es/LA1_LV3_IPH/LA1_LV3_IPH.m3u8
+
+#EXTINF:-1 tvg-id="TVE La 2" tvg-logo="http://www.thelogodb.com/images/media/logo/uswssx1433882236.png",TVE La 2
+http://iphonelive.rtve.es/LA2_LV3_IPH/bitrate_2.m3u8
+
+#EXTINF:-1 tvg-id="TV Galicia" tvg-logo="http://www.thelogodb.com/images/media/logo/wwvxvw1435103671.png/medium",TV Galicia
+http://media3.crtvg.es/live/_definst_/tvge_2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Andalucia TV" tvg-logo="http://www.thelogodb.com/images/media/logo/yytqty1461110278.png/medium",Andalucia TV
+http://iphone.rtpa.stream.flumotion.com/rtpa/tv-iphone/main.m3u8
+
+#EXTINF:-1 tvg-id="Tv Extremadura" tvg-logo="http://www.canalextremadura.es/sites/all/themes/cexma7/images/logotipo.jpg",Tv Extremadura
+http://corporacionextremena-live.hls.adaptive.level3.net/hls-live/corporacionextremena-channel02/_definst_/live.m3u8
+
+#EXTINF:-1 tvg-id="EuroNews" tvg-logo="http://www.thelogodb.com/images/media/logo/tuuryw1433426397.png/medium",EuroNews ES
+http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_es.m3u8
+
+#EXTINF:-1 tvg-id="La Sexta" tvg-logo="http://www.thelogodb.com/images/media/logo/wtvvpp1441660359.png/medium",La Sexta
+http://www.iptvsaga.com/play/tv3/0013.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="",
+
+#EXTINF:-1 tvg-id="" tvg-logo="",
+
 
  
 #EXTINF:-1 tvg-id="ANTENA 3.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/vqquup1435142966.png/medium",ANTENA 3
